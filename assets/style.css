@@ -27,7 +27,7 @@ li{
 
 header {
     position: fixed;
-    border-bottom: 10px solid rgb(64, 100, 100);
+    border-bottom: 10px dotted rgb(64, 100, 100);
 }
 header,
 footer {
@@ -61,7 +61,7 @@ form{
     margin: 0 auto;
     width: 500px;
     padding: 10px;
-    border: 5px solid rgb(62, 76, 77);
+    border: 5px dotted rgb(62, 76, 77);
     border-radius: 20px;
 }
 
@@ -74,7 +74,7 @@ input,
 textarea {
     box-sizing: border-box;
     width: 300px;
-    border: 1px solid rgb(62, 76, 77);
+    border: 1px dotted rgb(62, 76, 77);
 }
 
 textarea {
